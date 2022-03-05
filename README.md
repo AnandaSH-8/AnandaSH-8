@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anands-88&label=Profile%20views&color=0e75b6&style=flat" alt="anands-88" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anands-88" alt="anands-88" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Express.js, MongoDB**
 
 - 📫 How to reach me **anandsholla8@gmail.com**
