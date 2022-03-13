@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anands-88&label=Profile%20views&color=0e75b6&style=flat" alt="anands-88" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anands-88" alt="anands-88" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=anands-88" alt="anands-88" /></a> </p>
 
 <hr/>
 📫 Reach me at **anandsholla8@gmail.com**
