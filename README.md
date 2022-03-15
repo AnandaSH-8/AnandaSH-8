@@ -9,7 +9,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=anands-88" alt="anands-88" /></a> </p>
 
 <hr/>
-📫 Reach me at **anandsholla8@gmail.com**
+📫 Reach me at <b>anandsholla8@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
