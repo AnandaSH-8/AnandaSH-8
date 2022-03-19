@@ -8,7 +8,6 @@
 <h3 align="center">A passionate Fullstack Web Developer from India. Determined, with a keen interest to learn more about new technologies and eager to develop skills in the field of creating or developing user friendly products.</h3>
   
  <p> <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2> 
-<!--  <a href="https://anandsh-portfolio-8.herokuapp.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/351/351456.png" alt="html5" width="40" height="40"/> </a> </p> -->
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -20,6 +19,8 @@
 - 👯 I’m looking to collaborate on Projects, 
 
 - 💬 Talk to me about HTML, JavaScript, CSS, React, Express NodeJs, MongoDB
+  
+   <img src="https://cdn-icons-png.flaticon.com/128/351/351456.png" alt="html5" width="23" height="23"/> <b> My Portfolio </b> **[Link](https://ash-portfolio-8.herokuapp.com/)**.
 
 <hr/> 
 
