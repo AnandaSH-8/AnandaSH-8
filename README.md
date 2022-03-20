@@ -37,7 +37,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="https://twitter.com/anandsholla8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anandsholla8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ananda-s-holla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananda-s-holla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ananda-s-holla-268b94147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananda-s-holla" height="30" width="40" /></a>
 </p>
 
 <hr/> 
