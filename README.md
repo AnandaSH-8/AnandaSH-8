@@ -22,7 +22,7 @@
   
  - 📄 Know More About Me **[Link](https://drive.google.com/file/d/13Nwl9QbGjUGxfOgu_I47PhZvF9s6AweO/view?usp=sharing)**.
   
-   <img src="https://cdn-icons-png.flaticon.com/128/351/351456.png" alt="html5" width="23" height="23"/> <b> My Portfolio </b> **[Link](https://ash-portfolio-8.herokuapp.com/)**.
+   <img src="https://cdn-icons-png.flaticon.com/128/351/351456.png" alt="html5" width="23" height="23"/> <b> My Portfolio </b> **[Link](https://ash-portfolio-two.vercel.app/)**.
 
 <hr/> 
 
