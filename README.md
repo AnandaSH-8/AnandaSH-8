@@ -2,7 +2,7 @@
 <img width="50%" height = "250px" src="https://img.freepik.com/free-vector/people-creating-together-new-app-laptop_23-2148683052.jpg?size=338&ext=jpg" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5px> </h1>
 <p align='center'>
   <h2>My Name is Ananda S Holla .</h2>
 <h3 align="center">A passionate Fullstack Web Developer from India. Determined, with a keen interest to learn more about new technologies and eager to develop skills in the field of creating or developing user friendly products.</h3>
