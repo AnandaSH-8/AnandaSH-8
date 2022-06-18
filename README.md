@@ -20,7 +20,7 @@
 
 - 💬 Talk to me about HTML, JavaScript, CSS, React, Express NodeJs, MongoDB
   
- - 📄 Know More About Me **[Link](https://drive.google.com/file/d/13Nwl9QbGjUGxfOgu_I47PhZvF9s6AweO/view?usp=sharing)**.
+ - 📄 Know More About Me **[Link](https://drive.google.com/file/d/1vK2CQSptXpXnWK8Lay6vJcBlrjIQVsIH/view)**.
   
    <img src="https://cdn-icons-png.flaticon.com/128/351/351456.png" alt="html5" width="23" height="23"/> <b> My Portfolio </b> **[Link](https://ash-portfolio-two.vercel.app/)**.
 
