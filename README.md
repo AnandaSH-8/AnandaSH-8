@@ -14,11 +14,11 @@
 
 - 🔭 I’m currently working on Projetcs
 
-- 🌱 I’m currently learning React, Redux 
+- 🌱 I’m currently learning postgre SQL, vue, React.
 
 - 👯 I’m looking to collaborate on Projects, 
 
-- 💬 Talk to me about HTML, JavaScript, CSS, React, Express NodeJs, MongoDB
+- 💬 Talk to me about HTML, JavaScript, CSS, React, Express NodeJs, MongoDB,Vue, vuetify.
   
  - 📄 Know More About Me **[Link](https://drive.google.com/file/d/1vK2CQSptXpXnWK8Lay6vJcBlrjIQVsIH/view)**.
   
