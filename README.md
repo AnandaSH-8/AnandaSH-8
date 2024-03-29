@@ -6,11 +6,11 @@
 <h3 align="center">A passionate Fullstack Web Developer from India. Determined, with a keen interest to learn more about technologies and eager to develop skills in the field of creating or developing user friendly products.</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=anands-88&label=Profile%20views&color=orange&abbreviated=true&style=for-the-badge" 
-    alt="anands-88" /> 
+  <img src="https://komarev.com/ghpvc/?username=anandash-8&label=Profile%20views&color=orange&abbreviated=true&style=for-the-badge" 
+    alt="anandash-8" /> 
 </p>
 
-- 🔭 I’m currently working on [Hand-Cricket-vue](https://github.com/Anands-88/Hand-Cricket-vue)
+- 🔭 I’m currently working on [Hand-Cricket-vue](https://github.com/AnandaSH-8/Hand-Cricket-vue)
 
 - 🌱 I’m currently learning and Relearning **Vue, React and its related packages.**
 
@@ -30,7 +30,7 @@
 <br/>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anands-88" alt="anands-88" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnandaSH-8" alt="AnandaSH-8" /></a> </p>
 <br/>
 
 ## 💻 Tech Stack:
@@ -78,7 +78,7 @@
 <br/>
 
 ## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anands-88&show_icons=true&locale=en&layout=compact&&theme=flag-india" alt="anands-88" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnandaSH-8&show_icons=true&locale=en&layout=compact&&theme=flag-india" alt="AnandaSH-8" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anands-88&theme=flag-india&&show_icons=true&locale=en" alt="anands-88" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anands-88&&theme=flag-india" alt="anands-88" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnandaSH-8&theme=flag-india&&show_icons=true&locale=en" alt="AnandaSH-8" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnandaSH-8&&theme=flag-india" alt="AnandaSH-8" /></p>
