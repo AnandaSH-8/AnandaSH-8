@@ -6,8 +6,8 @@
 <h3 align="center">A passionate Fullstack Web Developer from India. Determined, with a keen interest to learn more about technologies and eager to develop skills in the field of creating or developing user friendly products.</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=anandash-8&label=Profile%20views&color=orange&abbreviated=true&style=for-the-badge" 
-    alt="anandash-8" /> 
+  <img src="https://komarev.com/ghpvc/?username=anandash-8&label=Profile%20views&abbreviated=true&color=orange&style=for-the-badge&base=1125" 
+    alt="anandash-8" />
 </p>
 
 - 🔭 I’m currently working on [Hand-Cricket-vue](https://github.com/AnandaSH-8/Hand-Cricket-vue)
