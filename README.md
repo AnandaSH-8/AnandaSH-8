@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ananda S Holla</h1>
-<h3 align="center">A passionate Fullstack Web Developer from India. Determined, with a keen interest to learn more about technologies and eager to develop skills in the field of creating or developing user-friendly products.</h3>
+<h3 align="center">A dedicated Fullstack Web Developer from India, passionate about crafting user-friendly digital experiences and continuously exploring emerging technologies.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=AnandaSH-8&label=Profile%20views&abbreviated=true&color=orange&style=for-the-badge&base=1125" 
@@ -48,7 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
