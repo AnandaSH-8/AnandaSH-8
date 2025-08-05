@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Vue, Express**
 
-- 📫 How to reach me **anandsholla8@gmail.com**
+- 📫 How to reach me **ashdeveloper8@gmail.com**
 
 - 📄 Know about me and my experiences [Resume](https://drive.google.com/file/d/1vK2CQSptXpXnWK8Lay6vJcBlrjIQVsIH/view)
 
