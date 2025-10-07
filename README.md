@@ -68,4 +68,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnandaSH-8&theme=flag-india&show_icons=true&locale=en" alt="AnandaSH-8" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnandaSH-8&theme=flag-india" alt="AnandaSH-8" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnandaSH-8&theme=flag-india](https://github-readme-streak-stats.herokuapp.com?user=AnandaSH-8&theme=flag-india&border_radius=8" alt="AnandaSH-8" /></p>
