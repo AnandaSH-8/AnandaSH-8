@@ -14,13 +14,13 @@
 
 - 🌱 I’m currently learning and relearning **Vue, React, and their related packages.**
 
-- 👨‍💻 All of my projects are available at [https://ash-portfolio-two.vercel.app/](https://ash-portfolio-two.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ananda-s-holla.vercel.app/](https://ananda-s-holla.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Vue, Express**
 
 - 📫 How to reach me **ashdeveloper8@gmail.com**
 
-- 📄 Know about me and my experiences [Resume](https://drive.google.com/file/d/1vK2CQSptXpXnWK8Lay6vJcBlrjIQVsIH/view)
+- 📄 Know about me and my experiences [Resume](https://docs.google.com/presentation/d/1gGpinQzyTf_I6qqOjKZ77gbs5fdN6RVCzcBZ3E_lqzA/edit?usp=sharing)
 
 ## 🌐 Connect with me:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anandsholla8)
