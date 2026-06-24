@@ -73,5 +73,5 @@
 ## 🖇️ Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/424242/AnandaSH-8" alt="AnandaSH-8's GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnandaSH-8&theme=github&hide_border=true&area=true" alt="AnandaSH-8's GitHub Contribution Graph" />
 </p>
