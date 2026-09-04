@@ -10,7 +10,7 @@
     alt="AnandaSH-8" />
 </p>
 
-- 🔭 I'm currently working on [Assets Manager](https://github.com/AnandaSH-8/Assets-Pulse)
+- 🔭 I'm currently working on [Assets Pulse](https://github.com/AnandaSH-8/Assets-Pulse)
 
 - 🌱 I'm currently learning and relearning **Vue, React, and their related packages.**
 
